@@ -1,0 +1,10 @@
+data:
+  title: "自己紹介シート"
+  about_me_title: "私について"
+  opinion_title: "想い"
+  history_title: "経歴"
+  skills_title: "スキル"
+  certificates_title: "認定資格"
+  footer: "Design with 💙 by Hendri Simarmata"
+  created_with: "Created with Tailwind CSS"
+  link_to_certificates_text: "認定資格へのリンク"

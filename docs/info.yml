@@ -1,0 +1,52 @@
+data:
+  header_info:
+    job: "システム　エンジニア"
+    my_name: "ヘンドリ　シマルマタ"
+    location: "大阪、日本"
+    vertical_name: "Hendri Simarmata" # Must be in Roman alphabet
+  about_me:
+    - "私はインドネシア出身で、テクノロジーの世界に情熱を注いでいます。テクノロジーに関連するあらゆるものを作り出すことが好きで、革新的な技術やアイデアに特に興味を持っています。"
+    - "また、実験や新しいことに挑戦することも楽しみの一つです。"
+    - "加えて、ビーチやスポーツ、アートが好きで、時々美しい瞬間を写真に収めることも楽しんでいます。"
+  opinion:
+    - "皆様とのコラボレーションを通じて、新しい技術と革新的なアイデアを実現し、より良い未来を共に創り出していければと思っています。"
+    - "これからも、皆様との協力を大切にし、素晴らしい成果を目指して努力してまいります。"
+    - "どうぞよろしくお願い致します。"
+  histories:
+    - title: "群馬県 - 日本語学校卒業"
+      period: "2018 - 2020"
+      description: "群馬県 - 日本語学校卒業"
+    - title: "東京 - ITビジネス専門学校卒業"
+      period: "2020 - 2022"
+      ended: ""
+      description: "東京 - ITビジネス専門学校卒業"
+    - title: "西新宿 東京都 - システムエンジニア入社"
+      period: "2022 - 2022"
+      description: "西新宿 東京都 - システムエンジニア入社"
+    - title: "道頓堀 大阪府 - システムエンジニア入社"
+      period: "2022 - 現在"
+      description: "道頓堀 大阪府 - システムエンジニア入社"
+  skills:
+    - title: "プログラミング"
+      items: ["PHP", "JavaScript", "Java", "Python", "CSS", "HTML"]
+    - title: "フレームワーク"
+      items: ["Laravel", "Codeigniter", "Tailwind", "Bootstrap", "Sass", "Livewire", "VueJs", "Spring Boot"]
+    - title: "データベース"
+      items: ["MySQL", "IRIS Intersystem", "SQLite"]
+    - title: "オペレーティング·システム"
+      items: ["Linux", "Windows", "Raspberry Pi"]
+    - title: "開発ツール"
+      items: ["VSCode", "Git", "Docker", "Docker Compose", "Postman"]
+    - title: "コラボレーションツール"
+      items: ["Notion", "Trello", "Chatwork", "Microsoft Teams", "Line Works"]
+    - title: "その他"
+      items: ["Adobe Photoshop"]
+  certificates:
+    - title: "AWS Certified Cloud Practitioner"
+      date: "取得年：2020年"
+      link: "https://www.credly.com/badges/a3b3a27f-6343-4fa6-ac72-42409647dfc1/public_url"
+    - title: "日本語能力試験 - N3"
+      date: "取得年：2020年"
+    - title: "Certificate of Appreciation (Indonesian Students Association's Media and Television - ID: 00266)"
+      date: "取得年：2022年8月"
+      link: "https://ppitv.org/alumni-pengurus-ppi-tv-dunia/"
